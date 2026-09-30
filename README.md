@@ -59,3 +59,9 @@ Operating under the strict evidentiary burdens of the **Federal Rules of Evidenc
 * **`scripts/loadfile_validator.py`:** Python production QC utility that verifies Concordance `.dat` delimiter counts, field headers, and validates matching `.opt` image page links[cite: 4].
 * **`scripts/timestamp_normalizer.py`:** Python script that standardizes heterogeneous timestamp formats (UTC, GPS Epoch, local DVR drift) into a unified chronological data model[cite: 4].
 * **`samples/sample_production.dat`:** Multi-source Concordance load file showcasing metadata mapping across mobile, cellular, ALPR, and CCTV sources[cite: 4].
+
+---
+
+## License
+
+This project is open-source and licensed under the MIT License.
