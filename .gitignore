@@ -1,0 +1,11 @@
+# Secrets
+.env*
+!.env.example
+*.pem
+*.key
+credentials.json
+token.json
+
+# OS metadata
+.DS_Store
+Thumbs.db
