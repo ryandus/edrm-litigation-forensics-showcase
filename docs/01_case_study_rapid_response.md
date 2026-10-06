@@ -1,5 +1,7 @@
 # Operation Rapid Response: 48-Hour Multi-Source Timeline Reconstruction
 
+> **Note:** This case study is a fictional scenario written for this portfolio. It is not based on any real investigation, and no real case data was used.
+
 ## 1. Executive Summary
 During an emergency suspected homicide investigation involving a young child victim, an uncooperative subject traveled over 200 miles away, crossing multiple different law enforcement jurisdictions before checking into a remote facility, withholding all location details. With zero eyewitness accounts and high-level multi-agency collaboration (FBI, Major Crimes), the entire recovery hinged strictly on disparate digital evidence streams.
 

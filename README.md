@@ -25,7 +25,7 @@ Operating under the strict evidentiary burdens of the **Federal Rules of Evidenc
 ### Why Digital Forensics Experience Elevates Litigation Teams
 * **Stricter Defensibility Standards:** Zero tolerance for spoliation, verified cryptographic hash chains of custody, and auditable intake environments.
 * **Deep File System & Artifact Fluency:** Parsing SQLite databases, carving unallocated space, decoding proprietary DVR/NVR codecs, and resolving multi-source timestamp drift.
-* **Turnkey Relativity Application:** Direct transferability to Relativity workspace administration, dtSearch regex querying, structured analytics, Continuous Active Learning (CAL), and verified load-file productions (`.dat`/`.opt`).
+* **Transferable Relativity Skills:** Forensic discipline carries over to Relativity review work: dtSearch querying, structured analytics, Continuous Active Learning (CAL), and verified load-file productions (`.dat`/`.opt`).
 
 ---
 
@@ -48,6 +48,8 @@ Operating under the strict evidentiary burdens of the **Federal Rules of Evidenc
 ## Featured Case Study
 
 ### [Operation Rapid Response: 48-Hour Multi-Source Timeline Reconstruction](docs/01_case_study_rapid_response.md)
+> **Note:** This case study is a fictional scenario written for this portfolio. It is not based on any real investigation, and no real case data was used.
+
 * **Scenario:** Emergency suspected homicide investigation involving an uncooperative subject and an unconfirmed 200-mile transit route crossing multiple jurisdictional boundaries.
 * **Technical Breakthrough:** Ingested and normalized five disparate ESI streams (Cellebrite Inseyets FFS mobile extractions, carrier CSLI tower dumps, FLOCK ALPR reads, and commercial CCTV video). Correlated cell tower azimuth handoffs with ALPR speed vectors to isolate a 4-minute highway shoulder dwell anomaly, securing third-party video confirming evidence disposal within 48 hours.
 * **Civil Equivalence:** Demonstrates full execution of emergency Ex Parte TRO workflows, high-velocity multi-custodian data exfiltration triage, and verified load-file delivery under strict court deadlines.
@@ -59,6 +61,12 @@ Operating under the strict evidentiary burdens of the **Federal Rules of Evidenc
 * **`scripts/loadfile_validator.py`:** Python production QC utility that verifies Concordance `.dat` delimiter counts, field headers, and validates matching `.opt` image page links.
 * **`scripts/timestamp_normalizer.py`:** Python script that standardizes heterogeneous timestamp formats (UTC, GPS Epoch, local DVR drift) into a unified chronological data model.
 * **`samples/sample_production.dat`:** Multi-source Concordance load file showcasing metadata mapping across mobile, cellular, ALPR, and CCTV sources.
+
+---
+
+## Data Notice
+
+All scenarios and sample data in this repository are fictional or synthetic. No case, client, or law-enforcement data is included.
 
 ---
 
